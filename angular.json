@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "time-shop-front"
+    }
+  },
+  "defaultProject": "time-shop-front",
+  "cli": {
+    "analytics": false
+  }
 }
